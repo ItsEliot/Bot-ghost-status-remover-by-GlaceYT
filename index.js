@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👑distributing to the cheapest coins", "👀Watching new orders", "✉️Ask about our invite rewards!", "💪Thanks for choosing Secret Coins", " 🙌 Create a ticket!"];
 
 
 let currentIndex = 0;
